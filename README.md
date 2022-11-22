@@ -14,8 +14,8 @@
 - Третий проект. HTML + CSS + JS + weppack [Mesto JS](https://github.com/SilentVampR/mesto)
 - Четвертый проект (как и последующие - вариации исполнения проекта Mesto в различных технологиях). HTML + CSS + JS + React. [Mesto React](https://github.com/SilentVampR/mesto-react)
 - Пятый проект. HTML + CSS + JS + NodeJS + React [Mesto с авторизацией и регистрацией](https://github.com/SilentVampR/react-mesto-auth)
-- Шестой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto с подключением к API Яндекса](https://github.com/SilentVampR/express-mesto)
-- Седьмой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto со своим API](https://github.com/SilentVampR/react-mesto-api-full)
+- Шестой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto создание своего API](https://github.com/SilentVampR/express-mesto)
+- Седьмой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto полный проект backend + frontend](https://github.com/SilentVampR/react-mesto-api-full)
 - Восьмой проект. Дипломная работа. HTML + CSS + JS + NodeJS + React + API + MongoDB [Movies Explorer - front](https://github.com/SilentVampR/movies-explorer-frontend), [Movies Explorer - back](https://github.com/SilentVampR/movies-explorer-api)
 
 ### 🔥 Личные проекты 🔥
