@@ -1,9 +1,43 @@
+# Hi! ✋
+
+## My name is Evgenii (John) Korsunov and I'm junior web-developer
+
+### ✨ About me (shortly) ✨
+39 yo, married, have daughter. Living at Phuket, Thailand for now. Finish Yandex.Praktikum web-developer course. Looking for work/side-work in that direction.
+
+### 🌱 Yandex.Practicum study projects 🌱
+
+*All projects reviewed by Yandex.Praktikum's specialists* 👍
+
+- First project, HTML + CSS none adaptive [How to Learn](https://github.com/SilentVampR/how-to-learn)
+- Second project. HTML + CSS adaptive [Russian travel](https://github.com/SilentVampR/russian-travel)
+- Third project. HTML + CSS + JS + weppack [Mesto JS](https://github.com/SilentVampR/mesto)
+- Fourth project (as all next - variations of Mesto project in different technologies). HTML + CSS + JS + React. [Mesto React](https://github.com/SilentVampR/mesto-react)
+- Fifth project. HTML + CSS + JS + NodeJS + React [Mesto authentification and registration](https://github.com/SilentVampR/react-mesto-auth)
+- Sixth project. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto creating own API](https://github.com/SilentVampR/express-mesto)
+- Seventh project. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto full project: backend + frontend](https://github.com/SilentVampR/react-mesto-api-full)
+- Eighth projet. Diploma. HTML + CSS + JS + NodeJS + React + API + MongoDB [Movies Explorer - front](https://github.com/SilentVampR/movies-explorer-frontend), [Movies Explorer - back](https://github.com/SilentVampR/movies-explorer-api)
+
+### 🔥 Personal projects 🔥
+
+- Made whole website on 1c-bitrix CMS platform: creating template, content fill and management. [link to site](https://beyosa.kz)
+- Simple HTML + vanilla JS website creation (remade this website from WIX platform). [link to site](https://коврик-ру.рф)
+- Did couple of LiveCoding sessions (on Russian) for Yandex.Practicum studens. Trial format for me. Had only 3 sessions, then I ended this idea due to being very busy. [First](https://github.com/SilentVampR/LiveCoding_03_04), [second](https://github.com/SilentVampR/live-01-05)
+
+### 📖 Main stack 📖
+
+HTML, CSS, JS, React, MongoDB, NodeJS, PHP, MySQL
+
+### 🎸 Hobby 🎸
+
+Playing guitar, watching series and movies, playing videogames
+
 # Привет! ✋
 
 ## Меня зовут Евгений Корсунов и я начинающий фронтенд-разрабочик
 
 ### ✨ Кратко о себе ✨
-Мне 38 лет, женат, есть дочь. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Ищу работу/подработку в этом направлении.
+Мне 39 лет, женат, есть дочь. На данный момент живу на Пхукете, Тайланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Ищу работу/подработку в этом направлении.
 
 ### 🌱 Проекты в рамках образовательной программы Яндекс.Практикум 🌱
 
