@@ -20,9 +20,10 @@
 
 ### 🔥 Personal projects 🔥
 
-- Made whole website on 1c-bitrix CMS platform: creating template, content fill and management. [link to site](https://beyosa.kz)
+- Made whole website on 1c-bitrix CMS platform: creating template, content fill and management. Site is not working now.
 - Simple HTML + vanilla JS website creation (remade this website from WIX platform). [link to site](https://коврик-ру.рф)
-- Did couple of LiveCoding sessions (on Russian) for Yandex.Practicum studens. Trial format for me. Had only 3 sessions, then I ended this idea due to being very busy. [First](https://github.com/SilentVampR/LiveCoding_03_04), [second](https://github.com/SilentVampR/live-01-05)
+- HTML + vanilla JS website deployed to MODX platform [link to site](https://easy-rent.pro)
+- Done couple of LiveCoding sessions (on Russian) for Yandex.Practicum studens. Trial format for me. Had only 3 sessions, then I ended this idea due to being very busy. [First](https://github.com/SilentVampR/LiveCoding_03_04), [second](https://github.com/SilentVampR/live-01-05)
 
 ### 📖 Main stack 📖
 
@@ -56,11 +57,12 @@ Playing guitar, watching series and movies, playing videogames
 
 - Создание сайта на базе 1C-битрикс: создание шаблона и внедрение его в CMS, наполнение контентом. [Ссылка на сайт](https://beyosa.kz)
 - Создание простого HTML сайта на несколько страниц ("перенос" сайта с платформы WIX). [Ссылка на сайт](https://коврик-ру.рф)
+- Создание сайта на MODX CMS (PHP + HTML + vanilla JS) [link to site](https://easy-rent.pro)
 - Проведение LiveCoding сессий для студентов Яндекс.Практикум. Пробный формат. Провел три сессии, далее в виду большой загруженности от идеи пришлось отказаться. [Первый](https://github.com/SilentVampR/LiveCoding_03_04), [второй](https://github.com/SilentVampR/live-01-05)
 
-### 😎 Некоммерческие проекты 😎
+### 😎 Телеграм боты 😎
 
-Участвую в проекте Любимовка, в команде фронтенда, в качестве фроненд-разработчика, пока только начал, вливаюсь. В проекте присутсвуют новые для меня технологии, такеие как TypeScript и NextJS [lubimovka.art/](https://lubimovka.art/)
+Сделал в свое время несколько различных телеграм ботов на PHP (магазины, учебный курс, информер). Один из них (учебный, нельзя кидать в открытый доступ) имеет базу из более 5000 человек.
 
 ### 📖 Основной стек 📖
 
