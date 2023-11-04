@@ -1,6 +1,6 @@
 # Hi! ✋
 
-## My name is Evgenii (John) Korsunov and I'm junior web-developer
+## My name is Evgenii (John) Korsunov and I'm web and backend-developer
 
 ### ✨ About me (shortly) ✨
 39 yo, married, have daughter. Living at Phuket, Thailand for now. Finish Yandex.Praktikum web-developer course. Looking for work/side-work in that direction.
@@ -35,7 +35,7 @@ Playing guitar, watching series and movies, playing videogames
 
 # Привет! ✋
 
-## Меня зовут Евгений Корсунов и я начинающий фронтенд-разрабочик
+## Меня зовут Евгений Корсунов и я фронтенд/бэкенд/разрабочик
 
 ### ✨ Кратко о себе ✨
 Мне 39 лет, женат, есть дочь. На данный момент живу на Пхукете, Тайланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Ищу работу/подработку в этом направлении.
