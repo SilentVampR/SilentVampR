@@ -28,7 +28,7 @@ Looking for work/side-work in that direction.
 - Frontend and backend. Project for univercity «BGPU» (In Progress). 1C Bitrix
 - Frontend and backend. Project for rental agency «Get Your Phuket» (In Progress). 1C Bitrix
 
-### 🔥 Work prokects 🔥
+### 🔥 Work projects 🔥
 
 - Supporting different projects on 1C Bitrix CMS and MODX CMS. Fixing bugs. Creating new pages, elements, adding new functionality, update site designs.
 - Frontend and backend. Project for Dantist Clinic «Medalist» [Medalist Website RU](https://medalist-stom.ru) (80% of all job). 1C Bitrix
