@@ -3,7 +3,7 @@
 ## My name is Evgenii (Eugene) Korsunov and I'm web and backend-developer
 
 ### ✨ About me (shortly) ✨
-40 yo, married, have daughter. Living at Phuket, Thailand for now. Finish Yandex.Praktikum web-developer course. More than one year working for development studio as PHP developer on 1C Bitrix CMS
+40 yo, married, have daughter. Living at Phuket, Thailand for now. Finished Yandex.Praktikum web-developer course. More than one year working for development studio as PHP developer on 1C Bitrix CMS
 Looking for work/side-work in that direction.
 
 ### 🌱 Yandex.Practicum study projects 🌱
