@@ -25,8 +25,8 @@ Looking for work/side-work in that direction.
 - Simple HTML + vanilla JS website creation (remade this website from WIX platform). [link to site](https://коврик-ру.рф)
 - HTML + vanilla JS website deployed to MODX platform [link to site](https://easy-rent.pro)
 - Done couple of LiveCoding sessions (on Russian) for Yandex.Practicum studens. Trial format for me. Had only 3 sessions, then I ended this idea due to being very busy. [First](https://github.com/SilentVampR/LiveCoding_03_04), [second](https://github.com/SilentVampR/live-01-05)
-- Frontend and backend. Project for univercity «BGPU» (In Progress). 1C Bitrix
-- Frontend and backend. Project for rental agency «Get Your Phuket» (In Progress). 1C Bitrix
+- Frontend and backend. Project for university «BGPU» (In Progress). 1C Bitrix
+- Frontend and backend. Project for rental agency «Get Your Phuket» [link to site](https://getyourphuket.com). 1C Bitrix
 
 ### 🔥 Work projects 🔥
 
@@ -64,12 +64,12 @@ Playing guitar, watching series and movies, playing videogames
 
 ### 🔥 Личные проекты 🔥
 
-- Создание сайта на базе 1C-битрикс: создание шаблона и внедрение его в CMS, наполнение контентом. [Ссылка на сайт](https://beyosa.kz)
+- Создание сайта на базе 1C-битрикс: создание шаблона и внедрение его в CMS, наполнение контентом. [Ссылка на сайт](https://beyosa.kz) - сейчас уже другая версия
 - Создание простого HTML сайта на несколько страниц ("перенос" сайта с платформы WIX). [Ссылка на сайт](https://коврик-ру.рф)
-- Создание сайта на MODX CMS (PHP + HTML + vanilla JS) [link to site](https://easy-rent.pro)
+- Создание сайта на MODX CMS (PHP + HTML + vanilla JS) [Ссылка на сайт](https://easy-rent.pro)
 - Проведение LiveCoding сессий для студентов Яндекс.Практикум. Пробный формат. Провел три сессии, далее в виду большой загруженности от идеи пришлось отказаться. [Первый](https://github.com/SilentVampR/LiveCoding_03_04), [второй](https://github.com/SilentVampR/live-01-05)
 - Верстка и бэкенд проекта университета «БГПУ» (В процессе). 1С Битрикс
-- Верстка и бэкенд проекта агенства недвижимости «Get Your Phuket» (В процессе). 1C Битрикс
+- Верстка и бэкенд проекта агенства недвижимости «Get Your Phuket» [Ссылка на сайт](https://getyourphuket.com). 1C Битрикс
 
 ### 🔥 Рабочие проекты 🔥
 
