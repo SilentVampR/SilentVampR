@@ -3,8 +3,8 @@
 ## My name is Evgenii (Eugene) Korsunov and I'm web and backend-developer
 
 ### ✨ About me (shortly) ✨
-40 yo, married, have daughter. Living at Phuket, Thailand for now. Finished Yandex.Praktikum web-developer course. More than one year working for development studio as PHP developer on 1C Bitrix CMS
-Looking for work/side-work in that direction.
+41 yo, married, have daughter. Living at Phuket, Thailand for now. Finished Yandex.Praktikum web-developer course. More than one year working for development studio as PHP/frontend developer on 1C Bitrix CMS
+Ready for work/side-work in that direction.
 
 ### 🌱 Yandex.Practicum study projects 🌱
 
@@ -21,12 +21,13 @@ Looking for work/side-work in that direction.
 
 ### 🔥 Personal projects 🔥
 
-- Made whole website on 1c-bitrix CMS platform: creating template, content fill and management. Site is not working now.
+- Made whole website for matrasses and beds trading company on 1c-bitrix CMS platform: creating template, content fill and management. Site is not working now.
 - Simple HTML + vanilla JS website creation (remade this website from WIX platform). [link to site](https://коврик-ру.рф)
 - HTML + vanilla JS website deployed to MODX platform [link to site](https://easy-rent.pro)
 - Done couple of LiveCoding sessions (on Russian) for Yandex.Practicum studens. Trial format for me. Had only 3 sessions, then I ended this idea due to being very busy. [First](https://github.com/SilentVampR/LiveCoding_03_04), [second](https://github.com/SilentVampR/live-01-05)
-- Frontend and backend. Project for university «BGPU» (In Progress). 1C Bitrix
+- Frontend and backend. Project for university «BGPU» [link to site](https://bgpu.ru/). 1C Bitrix
 - Frontend and backend. Project for rental agency «Get Your Phuket» [link to site](https://getyourphuket.com). 1C Bitrix
+- Design, frontend and backend. Project for cars and bikes rental company «Boomerang» [link to site](https://boomerang.rent). Figma, 1C Bitrix
 
 ### 🔥 Work projects 🔥
 
@@ -36,7 +37,7 @@ Looking for work/side-work in that direction.
 
 ### 📖 Main stack 📖
 
-HTML, CSS, JS, React, MongoDB, NodeJS, PHP, MySQL
+1C Bitrix CMS, HTML, CSS, JS, PHP, MySQL, API, React, MongoDB, NodeJS
 
 ### 🎸 Hobby 🎸
 
@@ -47,7 +48,7 @@ Playing guitar, watching series and movies, playing videogames
 ## Меня зовут Евгений Корсунов и я фронтенд/бэкенд/разрабочик
 
 ### ✨ Кратко о себе ✨
-Мне 40 лет, женат, есть дочь. На данный момент живу на Пхукете, Тайланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Работаю более года в компании по разработке веб-сайтов в должности программист PHP в среде 1C Битрик управление сайтом.
+Мне 41 год, женат, есть дочь. На данный момент живу на Пхукете, Тайланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Работаю более года в компании по разработке веб-сайтов в должности программист PHP, фронтенд разрабоотчик в среде 1C Битрик управление сайтом.
 
 ### 🌱 Проекты в рамках образовательной программы Яндекс.Практикум 🌱
 
@@ -64,12 +65,13 @@ Playing guitar, watching series and movies, playing videogames
 
 ### 🔥 Личные проекты 🔥
 
-- Создание сайта на базе 1C-битрикс: создание шаблона и внедрение его в CMS, наполнение контентом. [Ссылка на сайт](https://beyosa.kz) - сейчас уже другая версия
+- Создание сайта для компании по продаже кроватей и матрасов «Beyosa» на базе 1C-битрикс: создание шаблона и внедрение его в CMS, наполнение контентом (уже не актуален)
 - Создание простого HTML сайта на несколько страниц ("перенос" сайта с платформы WIX). [Ссылка на сайт](https://коврик-ру.рф)
 - Создание сайта на MODX CMS (PHP + HTML + vanilla JS) [Ссылка на сайт](https://easy-rent.pro)
 - Проведение LiveCoding сессий для студентов Яндекс.Практикум. Пробный формат. Провел три сессии, далее в виду большой загруженности от идеи пришлось отказаться. [Первый](https://github.com/SilentVampR/LiveCoding_03_04), [второй](https://github.com/SilentVampR/live-01-05)
-- Верстка и бэкенд проекта университета «БГПУ» (В процессе). 1С Битрикс
+- Верстка и бэкенд проекта университета «БГПУ» [Ссылка на сайт](https://bgpu.ru/). 1С Битрикс
 - Верстка и бэкенд проекта агенства недвижимости «Get Your Phuket» [Ссылка на сайт](https://getyourphuket.com). 1C Битрикс
+- Дизайн, верстка и бэкенд проекта компании по аренде автомобилей «Boomerang». Пхукет. [Ссылка на сайт](https://boomerang.rent/). Figma, 1С Битрикс
 
 ### 🔥 Рабочие проекты 🔥
 
@@ -83,7 +85,7 @@ Playing guitar, watching series and movies, playing videogames
 
 ### 📖 Основной стек 📖
 
-HTML, CSS, JS, React, MongoDB, NodeJS, PHP, MySQL, 1C Bitrix
+1C Bitrix CMS, HTML, CSS, JS, PHP, MySQL, API, React, MongoDB, NodeJS
 
 ### 🎸 Хобби 🎸
 
