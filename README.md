@@ -21,13 +21,14 @@ Ready for work/side-work in that direction.
 
 ### 🔥 Personal projects 🔥
 
-- Made whole website for matrasses and beds trading company on 1c-bitrix CMS platform: creating template, content fill and management. Site is not working now.
+- Made whole website for matrasses and beds trading company on 1c-bitrix CMS platform: creating template, content fill and management. Site is not online now.
 - Simple HTML + vanilla JS website creation (remade this website from WIX platform). [link to site](https://коврик-ру.рф)
 - HTML + vanilla JS website deployed to MODX platform [link to site](https://easy-rent.pro)
 - Done couple of LiveCoding sessions (on Russian) for Yandex.Practicum studens. Trial format for me. Had only 3 sessions, then I ended this idea due to being very busy. [First](https://github.com/SilentVampR/LiveCoding_03_04), [second](https://github.com/SilentVampR/live-01-05)
 - Frontend and backend. Project for university «BGPU» [link to site](https://bgpu.ru/). 1C Bitrix
-- Frontend and backend. Project for rental agency «Get Your Phuket» [link to site](https://getyourphuket.com). 1C Bitrix
+- Frontend and backend. Project for real estate agency «Get Your Phuket» [link to site](https://getyourphuket.com). 1C Bitrix
 - Design, frontend and backend. Project for cars and bikes rental company «Boomerang» [link to site](https://boomerang.rent). Figma, 1C Bitrix
+- Design, frontend and backend. Project for real estate agency rental company «Boomerang» [link to site](https://myphuket.rent). Figma, 1C Bitrix
 
 ### 🔥 Work projects 🔥
 
@@ -72,6 +73,7 @@ Playing guitar, watching series and movies, playing videogames
 - Верстка и бэкенд проекта университета «БГПУ» [Ссылка на сайт](https://bgpu.ru/). 1С Битрикс
 - Верстка и бэкенд проекта агенства недвижимости «Get Your Phuket» [Ссылка на сайт](https://getyourphuket.com). 1C Битрикс
 - Дизайн, верстка и бэкенд проекта компании по аренде автомобилей «Boomerang». Пхукет. [Ссылка на сайт](https://boomerang.rent/). Figma, 1С Битрикс
+- Дизайн, верстка и бэкенд проекта компании по аренде недвижимости «Boomerang». Пхукет. [Ссылка на сайт](https://myphuket.rent/). Figma, 1С Битрикс
 
 ### 🔥 Рабочие проекты 🔥
 
