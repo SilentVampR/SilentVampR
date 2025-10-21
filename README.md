@@ -3,21 +3,8 @@
 ## My name is Evgenii (Eugene) Korsunov and I'm web and backend-developer
 
 ### ✨ About me (shortly) ✨
-41 yo, married, have daughter. Living at Phuket, Thailand for now. Finished Yandex.Praktikum web-developer course. More than one year working for development studio as PHP/frontend developer on 1C Bitrix CMS
+41 yo, married, have daughter. Living at Phuket, Thailand for now. Finished Yandex.Praktikum web-developer course. More than two years working for development studio as PHP/frontend developer on 1C Bitrix CMS
 Ready for work/side-work in that direction.
-
-### 🌱 Yandex.Practicum study projects 🌱
-
-*All projects reviewed by Yandex.Praktikum's specialists* 👍
-
-- First project, HTML + CSS none adaptive [How to Learn](https://github.com/SilentVampR/how-to-learn)
-- Second project. HTML + CSS adaptive [Russian travel](https://github.com/SilentVampR/russian-travel)
-- Third project. HTML + CSS + JS + weppack [Mesto JS](https://github.com/SilentVampR/mesto)
-- Fourth project (as all next - variations of Mesto project in different technologies). HTML + CSS + JS + React. [Mesto React](https://github.com/SilentVampR/mesto-react)
-- Fifth project. HTML + CSS + JS + NodeJS + React [Mesto authentification and registration](https://github.com/SilentVampR/react-mesto-auth)
-- Sixth project. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto creating own API](https://github.com/SilentVampR/express-mesto)
-- Seventh project. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto full project: backend + frontend](https://github.com/SilentVampR/react-mesto-api-full)
-- Eighth projet. Diploma. HTML + CSS + JS + NodeJS + React + API + MongoDB [Movies Explorer - front](https://github.com/SilentVampR/movies-explorer-frontend), [Movies Explorer - back](https://github.com/SilentVampR/movies-explorer-api)
 
 ### 🔥 Personal projects 🔥
 
@@ -35,10 +22,24 @@ Ready for work/side-work in that direction.
 - Supporting different projects on 1C Bitrix CMS and MODX CMS. Fixing bugs. Creating new pages, elements, adding new functionality, update site designs.
 - Frontend and backend. Project for Dantist Clinic «Medalist» [Medalist Website RU](https://medalist-stom.ru) (80% of all job). 1C Bitrix
 - Frontend and backend. Project for «TMH» [TMH Website RU](https://tmh-university.ru) (90% of all job). 1C Bitrix
+- Frontend and backkend. Project for Design Institute «Sibgiproshaht» [Sibgiproshaht Website RU](https://sgsh.ru). 1C Bitrix
+
+### 🌱 Yandex.Practicum study projects 🌱
+
+*All projects reviewed by Yandex.Praktikum's specialists* 👍
+
+- First project, HTML + CSS none adaptive [How to Learn](https://github.com/SilentVampR/how-to-learn)
+- Second project. HTML + CSS adaptive [Russian travel](https://github.com/SilentVampR/russian-travel)
+- Third project. HTML + CSS + JS + weppack [Mesto JS](https://github.com/SilentVampR/mesto)
+- Fourth project (as all next - variations of Mesto project in different technologies). HTML + CSS + JS + React. [Mesto React](https://github.com/SilentVampR/mesto-react)
+- Fifth project. HTML + CSS + JS + NodeJS + React [Mesto authentification and registration](https://github.com/SilentVampR/react-mesto-auth)
+- Sixth project. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto creating own API](https://github.com/SilentVampR/express-mesto)
+- Seventh project. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto full project: backend + frontend](https://github.com/SilentVampR/react-mesto-api-full)
+- Eighth projet. Diploma. HTML + CSS + JS + NodeJS + React + API + MongoDB [Movies Explorer - front](https://github.com/SilentVampR/movies-explorer-frontend), [Movies Explorer - back](https://github.com/SilentVampR/movies-explorer-api)
 
 ### 📖 Main stack 📖
 
-1C Bitrix CMS, HTML, CSS, JS, PHP, MySQL, API, React, MongoDB, NodeJS
+1C Bitrix CMS, HTML, CSS, JS, PHP, MySQL, API, React, MongoDB, NodeJS, Figma
 
 ### 🎸 Hobby 🎸
 
@@ -49,20 +50,7 @@ Playing guitar, watching series and movies, playing videogames
 ## Меня зовут Евгений Корсунов и я фронтенд/бэкенд/разрабочик
 
 ### ✨ Кратко о себе ✨
-Мне 41 год, женат, есть дочь. На данный момент живу на Пхукете, Тайланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Работаю более года в компании по разработке веб-сайтов в должности программист PHP, фронтенд разрабоотчик в среде 1C Битрик управление сайтом.
-
-### 🌱 Проекты в рамках образовательной программы Яндекс.Практикум 🌱
-
-*Все проекты проходили ревью от специалистов Яндекс.Практикума* 👍
-
-- Самый первый проект, HTML + CSS без адаптива [Научись учиться](https://github.com/SilentVampR/how-to-learn)
-- Второй проект. HTML + CSS с адаптивной версткой [Russian travel](https://github.com/SilentVampR/russian-travel)
-- Третий проект. HTML + CSS + JS + weppack [Mesto JS](https://github.com/SilentVampR/mesto)
-- Четвертый проект (как и последующие - вариации исполнения проекта Mesto в различных технологиях). HTML + CSS + JS + React. [Mesto React](https://github.com/SilentVampR/mesto-react)
-- Пятый проект. HTML + CSS + JS + NodeJS + React [Mesto с авторизацией и регистрацией](https://github.com/SilentVampR/react-mesto-auth)
-- Шестой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto создание своего API](https://github.com/SilentVampR/express-mesto)
-- Седьмой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto полный проект backend + frontend](https://github.com/SilentVampR/react-mesto-api-full)
-- Восьмой проект. Дипломная работа. HTML + CSS + JS + NodeJS + React + API + MongoDB [Movies Explorer - front](https://github.com/SilentVampR/movies-explorer-frontend), [Movies Explorer - back](https://github.com/SilentVampR/movies-explorer-api)
+Мне 41 год, женат, есть дочь. На данный момент живу на Пхукете, Тайланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Работаю более двух лет в компании по разработке веб-сайтов в должности программист PHP, фронтенд разрабоотчик в среде 1C Битрик управление сайтом.
 
 ### 🔥 Личные проекты 🔥
 
@@ -78,16 +66,30 @@ Playing guitar, watching series and movies, playing videogames
 ### 🔥 Рабочие проекты 🔥
 
 - Поддержка различных проектов на платформе 1С Битрикс и MODX. Исправление ошибок, доработки, новые страницы, элементы, внедрение нового дизайна
-- Верстка и бэкенд проекта стоматологической клиники «Медалист» [Сайт Медалиста](https://medalist-stom.ru) (80% работы напару с другим программистом). 1С Битрикс
-- Верстка и бэкенд проекта университета «ТМХ» [Сайт ТМХ](https://tmh-university.ru) (90% работы напару с другим программистом). 1С Битрикс
+- Верстка и бэкенд проекта для стоматологической клиники «Медалист» [Сайт Медалиста](https://medalist-stom.ru) (80% работы напару с другим программистом). 1С Битрикс
+- Верстка и бэкенд проекта для университета «ТМХ» [Сайт ТМХ](https://tmh-university.ru) (90% работы напару с другим программистом). 1С Битрикс
+- Верстка и бэкенд проекта для проектного института «Сибгипрошахт» [Сайт Сибгипрошахт](https://sgsh.ru) 1С Битрикс
 
 ### 😎 Телеграм боты 😎
 
 Сделал в свое время несколько различных телеграм ботов на PHP (магазины, учебный курс, информер). Один из них (учебный, нельзя кидать в открытый доступ) имеет базу из более 6000 человек.
 
+### 🌱 Проекты в рамках образовательной программы Яндекс.Практикум 🌱
+
+*Все проекты проходили ревью от специалистов Яндекс.Практикума* 👍
+
+- Самый первый проект, HTML + CSS без адаптива [Научись учиться](https://github.com/SilentVampR/how-to-learn)
+- Второй проект. HTML + CSS с адаптивной версткой [Russian travel](https://github.com/SilentVampR/russian-travel)
+- Третий проект. HTML + CSS + JS + weppack [Mesto JS](https://github.com/SilentVampR/mesto)
+- Четвертый проект (как и последующие - вариации исполнения проекта Mesto в различных технологиях). HTML + CSS + JS + React. [Mesto React](https://github.com/SilentVampR/mesto-react)
+- Пятый проект. HTML + CSS + JS + NodeJS + React [Mesto с авторизацией и регистрацией](https://github.com/SilentVampR/react-mesto-auth)
+- Шестой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto создание своего API](https://github.com/SilentVampR/express-mesto)
+- Седьмой проект. HTML + CSS + JS + NodeJS + React + API + MongoDB [Mesto полный проект backend + frontend](https://github.com/SilentVampR/react-mesto-api-full)
+- Восьмой проект. Дипломная работа. HTML + CSS + JS + NodeJS + React + API + MongoDB [Movies Explorer - front](https://github.com/SilentVampR/movies-explorer-frontend), [Movies Explorer - back](https://github.com/SilentVampR/movies-explorer-api)
+
 ### 📖 Основной стек 📖
 
-1C Bitrix CMS, HTML, CSS, JS, PHP, MySQL, API, React, MongoDB, NodeJS
+1C Bitrix CMS, HTML, CSS, JS, PHP, MySQL, API, React, MongoDB, NodeJS, Figma
 
 ### 🎸 Хобби 🎸
 
