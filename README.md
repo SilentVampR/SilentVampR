@@ -22,7 +22,7 @@ Ready for work/side-work in that direction.
 - Supporting different projects on 1C Bitrix CMS and MODX CMS. Fixing bugs. Creating new pages, elements, adding new functionality, update site designs.
 - Frontend and backend. Project for Dantist Clinic «Medalist» [Medalist Website RU](https://medalist-stom.ru) (80% of all job). 1C Bitrix
 - Frontend and backend. Project for «TMH» [TMH Website RU](https://tmh-university.ru) (90% of all job). 1C Bitrix
-- Frontend and backkend. Project for Design Institute «Sibgiproshaht» [Sibgiproshaht Website RU](https://sgsh.ru). 1C Bitrix
+- Frontend and backend. Project for Design Institute «Sibgiproshaht» [Sibgiproshaht Website RU](https://sgsh.ru). 1C Bitrix
 
 ### 🌱 Yandex.Practicum study projects 🌱
 
@@ -50,7 +50,7 @@ Playing guitar, watching series and movies, playing videogames
 ## Меня зовут Евгений Корсунов и я фронтенд/бэкенд/разрабочик
 
 ### ✨ Кратко о себе ✨
-Мне 41 год, женат, есть дочь. На данный момент живу на Пхукете, Тайланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Работаю более двух лет в компании по разработке веб-сайтов в должности программист PHP, фронтенд разрабоотчик в среде 1C Битрик управление сайтом.
+Мне 41 год, женат, есть дочь. На данный момент живу на Пхукете, Таиланд. Закончил курс Яндекс.Практикум по специальности Фронтенд-разработчик. Работаю более двух лет в компании по разработке веб-сайтов в должности программист PHP, фронтенд разрабоотчик в среде 1C Битрик управление сайтом.
 
 ### 🔥 Личные проекты 🔥
 
